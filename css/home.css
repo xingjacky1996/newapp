@@ -1,0 +1,201 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    position: relative;
+}
+.kong{
+    height: 0.43rem;
+}
+header{
+    height: 0.81rem;
+    display: flex;
+    overflow: hidden;
+}
+header img{
+    width: 0.94rem;
+    height: 0.6rem;
+    margin-top: 0.2rem;
+}
+.daohangbox{
+    width: 6rem;
+    overflow-x: scroll;
+}
+.daohang{
+    width: 12rem;
+    display: flex;
+}
+.daohang li{
+    width: 1.1rem;
+    font-family: "华文宋体";
+    font-size: 0.3rem;
+    line-height: 0.81rem;
+    text-align: center;
+}
+.daohang li:first-child{
+    margin-left: 0.1rem;
+}
+.icon-sousuo{
+    width: 0.28rem;
+    height: 0.28rem;
+    margin-top: 0.2rem;
+}
+.new_box{
+    height: 3.14rem;
+}
+.lunbo{
+    height: 3.14rem;
+}
+.new_flash{
+    height: 1.76rem;
+    position: relative;
+    border-bottom: 0.02rem solid #ebebeb;
+}
+.new_flash a{
+    position: absolute;
+    top: 0.15rem;
+    left: 0.3rem;
+    font-size: 0.32rem;
+    color:#000;
+    font-family: "华文宋体";
+    font-weight: bold;
+    margin-top: 0;
+}
+.dateil{
+    position: absolute;
+    left: 0.27rem;
+    top: 1.1rem;
+    display: flex;
+}
+.didian{
+    width: 0.77rem;
+    height: 0.29rem;
+    border:0.01rem solid #dcdcdc;
+    border-radius: 0.29rem;
+    font-size: 0.11rem;
+    color: #545454;
+    font-family: "华文宋体";
+}
+.dateil p{
+    font-size: 0.17rem;
+    color:#454545;
+    margin-left: 0.28rem;
+    font-family: "华文宋体";
+}
+.dateil .icon-xinxi{
+    color:#cdcdcd;
+    margin-left: 0.3rem;
+}
+.number{
+    font-size: 0.15rem;
+    color: #545454;
+    margin-left: 0.15rem;
+}
+.top_new{
+    width: 0.58rem;
+    height: 0.28rem;
+    border:0.02rem solid  #099cef;
+    border-radius: 0.06rem;
+    font-size: 0.17rem;
+    color:#099cef;
+    text-align: center;
+    line-height: 0.28rem;
+    position: absolute;
+    top: 1.1rem;
+    right: 0.27rem;
+}
+.news li{
+    height: 1.26rem;
+    border-bottom: 0.02rem solid #eaeaea;
+    padding: 0.36rem 0 0.27rem 0;
+    display: flex;
+}
+.news li img{
+    margin-left: 0.27rem;
+    width: 2.04rem;
+    height: 1.26rem;
+}
+.new_detetil{
+    width: 4.78rem;
+    height: 1.22rem;
+    margin-left: 0.15rem;
+}
+.new_detetil h3{
+    font-family: "华文宋体";
+    font-size: 0.26rem;
+    color:#7d7d7d;
+    line-height: 0.42rem;
+    font-weight: normal;
+    letter-spacing: 0.02rem;
+}
+.new_detetil_d{
+    display: flex;
+    position: relative;
+}
+.address{
+    width: 1.4rem;
+    height: 0.3rem;
+    border:1px solid #e0e0e0;
+    border-radius: 0.3rem;
+    color:#414141;
+    font-size: 0.16rem;
+    text-align: center;
+    line-height: 0.3rem;
+}
+.new_detetil p{
+    font-family: "华文宋体";
+    font-size: 0.16rem;
+    margin-left: 0.19rem;
+    color:#464646;
+    line-height: 0.3rem;
+}
+.new_detetil .icon-xinxi{
+    margin-left: 0.2rem;
+    color:#cecece;
+}
+.daohang_bottom{
+    width: 100%;
+    height: 0.89rem;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+}
+.tui{
+    width: 0.58rem;
+    height: 0.28rem;
+    border:0.02rem solid  #099cef;
+    border-radius: 0.06rem;
+    font-size: 0.17rem;
+    color:#099cef;
+    text-align: center;
+    line-height: 0.28rem;
+    position: absolute;
+    right: 0;
+}
+.con{
+    width: 0.8rem;
+    position: relative;
+    
+}
+.con .iconfont{
+    font-size: 0.4rem;
+    position: absolute;
+    top: 0.1rem;
+    margin-left: 0.22rem;
+    color:#00a9f1;
+}
+.daohang_bottom_w{
+    font-family: "华文宋体";
+    width: 0.8rem;
+    font-size: 0.18rem;
+    position: absolute;
+    top: 0.58rem;
+    text-align: center;
+}

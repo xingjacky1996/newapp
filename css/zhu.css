@@ -1,0 +1,116 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    position: relative;
+    overflow-x: hidden;
+}
+.kong{
+    height: 0.43rem;
+}
+header{
+    height: 0.81rem;
+    display: flex;
+    overflow: hidden;
+    display: flex;
+}
+header .iconfont{
+    font-size: 0.44rem;
+}
+.icon-gongxiangtubiaozhuangtaileicaozuolei59{
+    margin-left: 0.31rem;
+}
+header h3{
+    font-size: 0.3rem;
+    margin-left: 2.57rem;
+    letter-spacing: 0.17rem;
+}
+#shuruzifu{
+    width: 7.23rem;
+    height: 0.58rem;
+    border:none;
+    margin-left: 0.27rem;
+    border-bottom: 0.01rem solid #eaeaea;
+}
+input::placeholder{
+    font-size: 0.26rem;
+    color: #bcbcbc;
+}
+#password{
+    margin-top: 0;
+    position: absolute;
+}
+#zhuce{
+    font-size: 0.23rem;
+    color: #878787;
+}
+#wnahji{
+    font-size: 0.23rem;
+    color: #878787;
+}
+#denglu{
+    position: absolute;
+    top: 5.74rem;
+    left: 2.32rem;
+    width: 2.89rem;
+    height: 0.55rem;
+    background-color: #c8c8c8;
+    font-size: 0.24rem;
+    color:#fff;
+    letter-spacing: 0.17rem;
+    border: none;
+    border-radius: 0.55rem;
+    text-align: center;
+}
+#yanzhengtu{
+    position: absolute;
+    right: 0.27rem;
+    top: 1.7rem;
+    width: 2.01rem;
+    height: 0.65rem;
+}
+#shoujihao{
+    width: 7.23rem;
+    height: 0.58rem;
+    border:none;
+    position: absolute;
+    top: 2.7rem;
+    margin-left: 0.27rem;
+    border-bottom: 0.01rem solid #eaeaea;
+}
+#shouyanzheng{
+    width: 7.23rem;
+    height: 0.58rem;
+    border:none;
+    position: absolute;
+    top: 3.42rem;
+    margin-left: 0.27rem;
+    border-bottom: 0.01rem solid #eaeaea;
+}
+#houqu{
+    position: absolute;
+    color: #161616;
+    font-size: 0.26rem;
+    right: 0.27rem;
+    top: 3.52rem;
+}
+.jiancha{
+    height: 0.32rem;
+    position: absolute;
+    left: 0.27rem;
+    top: 4.52rem;
+    display: flex;
+}
+.jiancha p{
+    margin-left: 0.2rem;
+    line-height: 0.32rem;
+    font-size: 0.24rem;
+    color: #747474;
+}
+.jiancha span{
+    color: #24a7d4;
+}

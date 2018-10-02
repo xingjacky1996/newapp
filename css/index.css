@@ -1,0 +1,37 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    position: relative;
+}
+.feng{
+    width: 2.08rem;
+    height: 1.2rem;
+    position: absolute;
+    bottom: 0.73rem;
+    left: 2.71rem;
+}
+.fengword{
+    width: 2.8rem;
+    height: 0.22rem;
+    position: absolute;
+    display: flex;
+    left: 2.57rem;
+    bottom: 0.38rem;
+}
+.line{
+    width: 0.31rem;
+    height: 0.03rem;
+    background-color: #545454;
+    margin-top: 0.1rem;
+}
+.word{
+    font-size: 0.22rem;
+    line-height: 0.22rem;
+    color: #545454;
+    font-family: "华文宋体";
+}
